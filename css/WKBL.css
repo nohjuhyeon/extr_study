@@ -1,0 +1,24 @@
+.search {
+    border-radius: 30px;
+}
+.top {
+    font-size: 10px;
+}
+nav {
+
+
+}
+.list {
+    list-style-type: none;
+}
+.header {
+    background-color: navy;
+    color: white;
+    padding: 1px 50px
+}
+.hana {
+ justify-content: center;
+}
+.hana_photo_first {
+    justify-content: end;
+}
